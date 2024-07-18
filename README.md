@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Lesson Plan Example
+This is my sample lesson plan from the CSTA 2024 session
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
